@@ -1,0 +1,9 @@
+.shape {
+
+    background-color: palevioletred;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    border-radius: 50%;
+}
